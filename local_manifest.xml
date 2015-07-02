@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/lge/c50" name="lept-development/android_device_lge_c50" remote="github" revision="cm-12.1" />
+    <project path="device/lge/msm8916-common" name="lept-development/android_device_lge_msm8916-common" remote="github" revision="cm-12.1" />
+    <project path="kernel/lge/c50" name="lept-development/android_kernel_lge_c50" remote="github" revision="cm-12.1" />
+    <project path="vendor/lge/c50" name="lept-development/proprietary_vendor_lge_c50" remote="github" revision="cm-12.1" />
+</manifest>
